@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.pmg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [fontendmentor.io dbd-preview-card](https://your-solution-url.com)
+- Solution URL: [fontendmentor.io dbd-preview-card](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/responsive-product-preview-card-component-ySUl4vyLRg)
 - Live Site URL: [dbd-preview-card.netlify.app](https://dbd-product-card.netlify.app/)
 
 ## My process
